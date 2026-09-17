@@ -1,0 +1,81 @@
+@import '@fontsource/ibm-plex-sans/400.css';
+@import '@fontsource/ibm-plex-sans/500.css';
+@import '@fontsource/ibm-plex-sans/600.css';
+@import '@fontsource/ibm-plex-mono/500.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: #12181C;
+  --ink-secondary: #2A3238;
+  --ink-muted: #6B7478;
+  --bg: #F2F4F3;
+  --surface: #FFFFFF;
+  --border: #DCE1DF;
+  --border-strong: #C3CAC7;
+
+  --signal: #0E7C86;
+  --signal-hover: #0B6670;
+  --signal-active: #095059;
+  --signal-tint: #E3F1F2;
+
+  --strong: #3F8F5F;
+  --strong-tint: #E6F2EA;
+  --gap: #C97A2E;
+  --gap-tint: #FBEEE0;
+  --neutral-score: #6B7478;
+
+  --danger: #B3403A;
+  --danger-tint: #F8E7E5;
+}
+
+@layer base {
+  html {
+    font-family: 'IBM Plex Sans', system-ui, sans-serif;
+    background-color: var(--bg);
+    color: var(--ink-secondary);
+  }
+
+  body {
+    margin: 0;
+  }
+
+  *:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(14, 124, 134, 0.35);
+  }
+
+  ::selection {
+    background: var(--signal-tint);
+    color: var(--signal);
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  max-width: 42rem;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .animate-bar-fill {
+      animation: none !important;
+      width: var(--bar-target) !important;
+    }
+  }
+
+  @keyframes bar-fill {
+    from {
+      width: 0;
+    }
+    to {
+      width: var(--bar-target);
+    }
+  }
+
+  .animate-bar-fill {
+    animation: bar-fill 400ms ease-out forwards;
+  }
+}
