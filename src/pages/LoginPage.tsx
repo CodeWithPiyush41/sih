@@ -1,14 +1,14 @@
-import { Link } from 'react-router-dom';
-import { useNavigate } from 'react-router-dom';
-import { GraduationCap } from 'lucide-react';
-import { Button } from '@/components/Button';
-import { Input } from '@/components/Input';
+import { useState } from 'react';
+import { Link, useNavigate } from 'react-router-dom';
+import { ShieldCheck } from 'lucide-react';
+import { Button } from '@/components/ui/Button';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
+import { useAuth } from '@/lib/auth/AuthContext';
 
 const schema = z.object({
-  email: z.string().email('Enter a valid email address'),
+  email: z.string().email('Enter a valid organization email address'),
   password: z.string().min(1, 'Password is required'),
 });
 
@@ -16,6 +16,10 @@ type FormData = z.infer<typeof schema>;
 
 export function LoginPage() {
   const navigate = useNavigate();
+  const { signIn } = useAuth();
+  const [authError, setAuthError] = useState<string | null>(null);
+  const [submitting, setSubmitting] = useState(false);
+
   const {
     register,
     handleSubmit,
@@ -25,47 +29,89 @@ export function LoginPage() {
     defaultValues: { email: '', password: '' },
   });
 
-  const onSubmit = (data: FormData) => {
-    // Mock: route teacher to /teacher, student to /student
-    if (data.email.startsWith('teacher')) {
-      navigate('/teacher');
-    } else {
-      navigate('/student');
+  const onSubmit = async (data: FormData) => {
+    setAuthError(null);
+    setSubmitting(true);
+    
+    try {
+      const { error, role } = await signIn(data.email, data.password);
+
+      if (error) {
+        setAuthError(error);
+        return;
+      }
+
+      if (role === 'teacher' || role === 'training_coordinator') {
+        navigate('/teacher');
+      } else if (role === 'admin') {
+        navigate('/admin');
+      } else {
+        navigate('/student');
+      }
+    } catch (err: any) {
+      console.error('Sign in error:', err);
+      setAuthError(err.message || 'An unexpected error occurred during sign in.');
+    } finally {
+      setSubmitting(false);
     }
   };
 
   return (
-    <div className="min-h-screen bg-bg flex flex-col">
-      <div className="flex items-center gap-2 px-8 py-6">
-        <GraduationCap size={20} strokeWidth={1.5} className="text-signal" />
-        <span className="text-h3 text-ink">SkillLens AI</span>
+    <div className="min-h-screen bg-slate-900 flex flex-col items-center justify-center relative overflow-hidden p-4">
+      <div className="absolute top-8 left-8 flex items-center gap-2">
+        <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center text-white shadow-md">
+          <ShieldCheck size={22} />
+        </div>
+        <div>
+          <span className="text-xl font-bold text-white tracking-tight block">SkillLens AI</span>
+          <span className="text-[10px] text-slate-400 font-semibold uppercase tracking-wider block">Official Statistical System (SIH26101)</span>
+        </div>
       </div>
-      <div className="flex-1 flex items-center justify-center px-6">
-        <div className="w-full max-w-sm">
-          <h1 className="text-display text-ink mb-2">Sign in</h1>
-          <p className="text-body text-ink-muted mb-8">
-            Use any email starting with "teacher" for the teacher view, or anything else for the student view.
+
+      <div className="w-full max-w-md px-4 relative z-10 space-y-6">
+        <div className="bg-white/95 backdrop-blur-md p-8 rounded-2xl shadow-2xl border border-slate-200">
+          <h1 className="text-2xl font-bold text-slate-900 mb-1">Sign in to SkillLens AI</h1>
+          <p className="text-xs text-slate-500 mb-6">
+            AI Competency Intelligence & Personalized Learning Pathway
           </p>
+
+          {authError && (
+            <div className="p-3 mb-4 rounded-xl bg-rose-50 border border-rose-200 text-xs text-rose-600 font-medium leading-relaxed">
+              {authError}
+            </div>
+          )}
+
           <form onSubmit={handleSubmit(onSubmit)} className="flex flex-col gap-4">
-            <Input
-              label="Email"
-              type="email"
-              placeholder="you@school.edu"
-              error={errors.email?.message}
-              {...register('email')}
-            />
-            <Input
-              label="Password"
-              type="password"
-              placeholder="Your password"
-              error={errors.password?.message}
-              {...register('password')}
-            />
-            <Button type="submit">Sign in</Button>
+            <div>
+              <label className="block text-xs font-semibold text-slate-700 mb-1">Official Email</label>
+              <input
+                type="email"
+                placeholder="Enter official email"
+                className="w-full px-3.5 py-2.5 border border-slate-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/50 text-slate-900 text-sm"
+                {...register('email')}
+              />
+              {errors.email && <p className="text-xs text-rose-500 mt-1">{errors.email.message}</p>}
+            </div>
+            
+            <div>
+              <label className="block text-xs font-semibold text-slate-700 mb-1">Password</label>
+              <input
+                type="password"
+                placeholder="••••••••"
+                className="w-full px-3.5 py-2.5 border border-slate-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/50 text-slate-900 text-sm"
+                {...register('password')}
+              />
+              {errors.password && <p className="text-xs text-rose-500 mt-1">{errors.password.message}</p>}
+            </div>
+
+            <Button type="submit" isLoading={submitting} className="mt-2 w-full py-2.5 rounded-xl">
+              Sign in with Supabase
+            </Button>
           </form>
-          <p className="text-body-sm text-ink-muted mt-6">
-            Don't have an account?{' '}
-            <Link to="/signup" className="text-signal hover:text-signal-hover">
+
+          <p className="text-xs text-slate-500 mt-6 text-center">
+            Need an organization account?{' '}
+            <Link to="/signup" className="text-primary hover:underline font-semibold">
               Create one
             </Link>
           </p>

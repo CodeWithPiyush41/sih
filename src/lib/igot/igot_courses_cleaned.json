@@ -1,0 +1,1279 @@
+{
+  "source": "iGoT Karmayogi",
+  "courses": [
+    {
+      "course_name": "Internal Tactics Supervisor - C134753",
+      "duration": "37m 29s",
+      "provider": "iGoT",
+      "summary": "Course summary not provided in the supplied data.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Flood-Disaster Response Training",
+      "duration": "1h",
+      "provider": "National Disaster Response Force (NDRF)",
+      "summary": "The purpose of this course is to enhance the knowledge of the learners towards the causes and impact of floods. It illustrates the different safety measures to be followed in flood situations and elucidates the key role volunteers play.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Ministry of Mines - Technology and Innovation (Part 6)",
+      "duration": "35m 6s",
+      "provider": "Ministry of Mines",
+      "summary": "This sixth module focuses on international best practices in sustainable mining using evolving technologies like remote sensing, blockchain, and data analytics. It emphasizes technology's role in safety, efficiency, sustainability, and stakeholder engagement, along with Indian initiatives such as Drone Surveys, Mining Surveillance Systems, Star Rating of Mines, and 5G adoption.",
+      "_skilllens_possible_domains": [
+        "Statistical",
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Ministry Of Mines - Safety, Sustainability, Environmental Responsibility (Part 8)",
+      "duration": "54m 3s",
+      "provider": "Ministry of Mines",
+      "summary": "This eighth module covers safety, sustainability, and environmental responsibility in the mining sector, including regulatory guidelines, health and safety standards, environmental policies, social impact assessment, sustainable development goals, and mine closure procedures.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Ministry of Mines - Global Context Dynamics of Market Trends (Part 5)",
+      "duration": "2h 59m",
+      "provider": "Ministry of Mines",
+      "summary": "This fifth module explores the international landscape of the mining industry, including best practices, foreign direct investment, geopolitical considerations, market trends, and collaboration initiatives.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Ministry Of Mines - Legal and Regulatory Framework (Part 9)",
+      "duration": "1h 50m",
+      "provider": "Ministry of Mines",
+      "summary": "This is the ninth module of our training program, providing an in-depth exploration of the legal and regulatory landscape in the mining industry. Dive into the nuances of mining types, legislative acts, welfare initiatives, policies, combating illegal practices, licensing, permits, and tax frameworks. Understand the legal foundations that shape responsible mining practices and sustain the mineral resource industry.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Understanding Development Programs",
+      "duration": "4h 45m",
+      "provider": "Indian School of Development Management",
+      "summary": "Embark on a captivating learning journey as you transition from \"Exploring Development: The Idea and Its Aspects\" course to the dynamic realm of \"Management for Development.\" In this course, discover how you, as Karmayogis, can play a crucial role in driving Development forward. This course is relevant for all Civil Servants across all departments, from SO (Section Officer) to the JS (Joint Secretary) level.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Intermediate Level 2 Course for Buyers",
+      "duration": "2h 13m",
+      "provider": "Government e Marketplace (GeM)",
+      "summary": "This course covers intermediate processes of the GeM portal, including Bunch Bid Creation for products, Push Button Procurement, Item-wise BOQ (Bill of Quantities), Reverse Auction deadlock, and other buyer modules.",
+      "_skilllens_possible_domains": [
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Introduction to Quality Control in FCI",
+      "duration": "37m 56s",
+      "provider": "Food Corporation of India (FCI)",
+      "summary": "Quality Control (QC) wing is the backbone of the functioning of FCI which is manned by qualified and trained personnel entrusted with enormous task of procurement & preservation of food grains. From procurement of the food grains in the ‘mandi’ to issue of food grains to state government under Public Distribution System (PDS), the role of QC division is very crucial at every stage including receipt and storage at depot and movement through lorry/rail wagon.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Basic of Access and Core Network",
+      "duration": "45m 23s",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "The supplied description begins by highlighting the tremendous growth in telecommunications and the resulting importance of access and core network concepts.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Developing Effective Soft Skills",
+      "duration": "39m 59s",
+      "provider": "Central Reserve Police Force (CRPF)",
+      "summary": "This course is designed to learn Soft Skills.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Virtual Private Network (VPN) Overview",
+      "duration": "41m 54s",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "The objective of this course is to give participants an understanding of MPLS-VPN.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Spectrum Management - Part II",
+      "duration": "40m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation and Training (NTIPRIT)",
+      "summary": "The course is divided into two modules namely Spectrum Assignment and Spectrum Auctions in India. To have better understanding of the course, it is suggested to complete the first part of the course named as Spectrum Management (Part-I). The different approaches of spectrum assignment and how the spectrum assignments have been done so far in India are explained. The cancellation of 2G licenses and its impact, the regulatory initiatives taken in 2012 and afterwards and the challenges in auction are discussed.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Adjudication in GST",
+      "duration": "1h 35m",
+      "provider": "Central Board of Indirect Taxes and Customs (CBIC)",
+      "summary": "The course defines adjudication, its process, and the importance of the adjudicating authority. It covers order-in-original, guidelines for adjudicating GST cases, and Show Cause Notice (SCN).",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Design Thinking For Excellence In Public Services",
+      "duration": "2h 40m",
+      "provider": "Brhat",
+      "summary": "The course will help grasp the foundational principles, attitudes, and frameworks underpinning Design Thinking. It will help apply design principles to enhance moral agency and purpose in public leadership, thereby improving service to the community.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "e-Ustad: Negotiation Skills",
+      "duration": "1h",
+      "provider": "Bureau of Police Research and Development (BPRD)",
+      "summary": "The course covers negotiation as communication and interaction between parties with differing interests, goals, or viewpoints. It focuses on reaching mutually acceptable agreements, resolving conflicts, managing crises, de-escalating volatile situations, establishing rapport, understanding emotions and motivations, and finding non-violent solutions.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "e-Ustad: POCSO Act",
+      "duration": "2h",
+      "provider": "Bureau of Police Research and Development (BPRD)",
+      "summary": "The course covers the Protection of Children from Sexual Offences Act, 2012 (POCSO Act), including its purpose, the types of offences it addresses, and the legal protection provided to children below 18 years from sexual offences and exploitation.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "e-Ustad: Soft Skills and Communication Skills",
+      "duration": "1h",
+      "provider": "Bureau of Police Research and Development (BPRD)",
+      "summary": "The course covers soft skills and communication skills in policing, including interpersonal skills, effective communication, collaboration, relationship building, and interaction with people from diverse backgrounds and cultures.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Yoga Challenge- Level 1",
+      "duration": "5h 28m",
+      "provider": "The Art of Living",
+      "summary": "This course offers holistic development through Surya Namaskar, advancing from basics to advanced levels for strength, flexibility, and mental focus. Enhance your practice with rhythmic breathing and Mantras, fostering spiritual connection and enriching your experience. Gain valuable insights to integrate yoga benefits into daily life.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "ICCTEP - Wireless Communication Fundamentals",
+      "duration": "2h",
+      "provider": "Centre for Development of Telematics (C-DOT)",
+      "summary": "Certified Wireless Expert Course.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Basic Indian Sign Language Course in Self Learning Mode Part 2",
+      "duration": "1h 38m",
+      "provider": "Indian Sign language Research and Training Centre",
+      "summary": "Indian Sign Language (ISL) is a visual manual language used by the Deaf community in India. It serves as a primary means of communication for millions of Deaf individuals, as well as for teachers, parents, siblings, and interpreters. ISL plays a vital role in providing accessibility and promoting inclusivity for the Deaf population in education, employment, and social interactions. Its distinct grammar and vocabulary facilitate meaningful communication within the Deaf community and with hearing individuals who learn ISL.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Basic Indian Sign Language Course in Self Learning Mode - Part 1",
+      "duration": "1h 46m",
+      "provider": "Indian Sign language Research and Training Centre",
+      "summary": "Indian Sign Language (ISL) is a visual manual language used by the Deaf community in India. It serves as a primary means of communication for millions of Deaf individuals, as well as for teachers, parents, siblings, and interpreters. ISL plays a vital role in providing accessibility and promoting inclusivity for the Deaf population in education, employment, and social interactions. Its distinct grammar and vocabulary facilitate meaningful communication within the Deaf community and with hearing individuals who learn ISL.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Low Carbon Development: Planning and Modelling",
+      "duration": "7h 53m",
+      "provider": "World Bank",
+      "summary": "This short overview module provides a high level introduction to climate change, low carbon development planning and the use of the EFFECT model (Energy Forecasting Framework and Emissions Consensus Tool).",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Introduction to Sellers and Service Provider",
+      "duration": "5m 27s",
+      "provider": "Government e Marketplace (GeM)",
+      "summary": "Government e-Marketplace and Introduction to Seller & Service Provider Functionality.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "PSTN Overview and Architecture- Part II",
+      "duration": "30m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation & Training (NTIPRIT)",
+      "summary": "A basic network is interconnection of various nodes. PSTN network is a combination of telephone lines, underground wires, switching centres, trunk exchanges etc.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "PSTN Overview and Architecture - Part I A",
+      "duration": "30m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation & Training (NTIPRIT)",
+      "summary": "An introduction of the old telephone service networking is explained. The elements of PSTN like public, switch, circuit switching, and network is briefed.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Legal Framework for Lawful Interception",
+      "duration": "1h 18m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation & Training (NTIPRIT)",
+      "summary": "This course helps the learner understand interception, monitoring, surveillance, the legal framework for exercising such powers, and safeguards to prevent misuse.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Introduction to Bharatiya Sakshya Adhiniyam, 2023",
+      "duration": "15m 38s",
+      "provider": "Karmayogi Bharat",
+      "summary": "This course provides an overview of changes introduced in the Indian Evidence Act and deals with evidence-related reforms, specifically admissibility and appreciation of electronic evidence, following the introduction of the Bharatiya Sakshya Adhiniyam, 2023.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Introduction to Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "duration": "1h 22m",
+      "provider": "Karmayogi Bharat",
+      "summary": "This course provides an overview of changes introduced in the Code of Criminal Procedure, 1973 and deals with procedural reforms relating to crime reporting, investigation, prosecution and trial of offences following the introduction of the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Introduction To Bharatiya Nyaya Sanhita, 2023",
+      "duration": "52m 42s",
+      "provider": "Karmayogi Bharat",
+      "summary": "The supplied source identifies this as an introduction to the Bharatiya Nyaya Sanhita, 2023. The provided description is truncated and does not contain enough information to summarize the course further.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "SAFETY, ACCIDENT PREVENTION AND DISASTER MANAGEMENT",
+      "duration": "11h 37m",
+      "provider": "Ministry of Road Transport and Highways",
+      "summary": "The course module helps in better understanding of safety aspects to be adopted at workplace in power distribution and provides knowledge about measures to take care in prevention of accidents and disaster management plans.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Command Area Development and Participatory Irrigation Management",
+      "duration": "20m 2s",
+      "provider": "North Eastern Regional Institute of Water and Land Management (NERIWALM)",
+      "summary": "This module covers Command Area Development (CAD) and Participatory Irrigation Management (PIM), their objectives, concepts, and methodologies for effective management of irrigation water.",
+      "_skilllens_possible_domains": [
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Navigating Climate Challenges - A Guide for Civil Servants",
+      "duration": "1h 34m",
+      "provider": "Dalberg Advisors",
+      "summary": "This course focuses on the role of civil servants in India in addressing climate change and shaping sustainable and resilient futures.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Computer Based Interlocking",
+      "duration": "1h 16m",
+      "provider": "Delhi Metro Rail Corporation",
+      "summary": "This course introduces Computer Based Interlocking systems for metro trains. It covers interlocking as a safety arrangement in metro signaling that prevents conflicting train movements and ensures that signals and points or switches are changed in a safe sequence.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Budgetary System in Government",
+      "duration": "49m 41s",
+      "provider": "National Academy Of Defence Financial Management (NADFM)",
+      "summary": "Budgetary System in Government.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Statistical Literacy",
+      "duration": "6h 26m",
+      "provider": "Indian Institute Of Management Bangalore",
+      "summary": "An Introductory Course on Statistics.",
+      "_skilllens_possible_domains": [
+        "Statistical"
+      ]
+    },
+    {
+      "course_name": "Filing of APAR and AIPR through SPARROW",
+      "duration": "50m",
+      "provider": "National Institute of Communication Finance",
+      "summary": "The course covers filing of Annual Performance Appraisal Report (APAR) and AIPR through SPARROW. APAR is an important document providing inputs for assessing the performance and potential of officers.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Public Private Partnerships Beginners eCourse",
+      "duration": "7h 15m",
+      "provider": "Department of Economic Affairs",
+      "summary": "This e-Course is designed for a diverse audience interested in understanding and engaging with Public Private Partnerships (PPPs) in infrastructure development.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Indian Partnership Act, 1932",
+      "duration": "2h 53m",
+      "provider": "National Academy of Direct Taxes (NADT)",
+      "summary": "The course covers the legal framework for partnerships in India, including different types of partnerships, partners, and the constitution and dissolution of partnership firms under the Indian Partnership Act, 1932.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Cash Book and Bank Book",
+      "duration": "2h 29m",
+      "provider": "National Academy of Direct Taxes (NADT)",
+      "summary": "The course covers Cash Book and Bank Book, rules of debit and credit, different types of Cash Books, and reconciliation. The supplied description is truncated.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Depot operations in FCI",
+      "duration": "25m 1s",
+      "provider": "Food Corporation of India (FCI)",
+      "summary": "Depot operations are the backbone of the functioning of FCI, which is committed to ensuring uninterrupted food grain supply across the nation. Understanding basic depot operations is crucial for FCI staff for successful running, monitoring, and implementing government policies.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Introduction to Mail Network Optimization Project (MNOP)",
+      "duration": "20m",
+      "provider": "RAKNPA",
+      "summary": "Mail Network Optimization Project (MNOP).",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Mobile Base Station and its Maintenance",
+      "duration": "2h 14m",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "This course includes Base Station infrastructure elements and their maintenance. It focuses on Tejas Make 4G eNodeB and its components deployed under BSNL's indigenous 4G Phase IX.2 project, supporting proper maintenance of these base stations.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Maintenance of Land and Building Assets",
+      "duration": "2h 14m",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "This course covers BSNL's policy for renting vacant built-up space and residential accommodation, monetization of under-utilized land and building assets, and guidelines for planning, execution, and maintenance of construction projects undertaken by CPWD and REM in SAP.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Input Tax Credit (ITC) Mechanism",
+      "duration": "4h 46m",
+      "provider": "Central Board of Indirect Taxes and Customs (CBIC)",
+      "summary": "This course discusses Input Tax Credit in GST, including eligibility and conditions, utilization and matching through returns and GSTR-2B, ineligible credit and reversal, and ITC under special circumstances.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Overview of Employee Self Services",
+      "duration": "29m 35s",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "This is a web-based computer application dealing with personal claims of employees. It is linked with SAP R3 and reduces related data-entry work. ESS is available to employees of SAP go-live circles.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Public - Private Partnership",
+      "duration": "1h 50m",
+      "provider": "ISB Hyderabad",
+      "summary": "This course provides an overview of Public-Private Partnerships (PPPs) as a model for delivering public services. It covers the strengths and weaknesses of public and private sectors, advantages of PPPs, partner motivations, different forms and structures, and risks and responsible parties.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Finance for Non-finance professionals (FNFP)",
+      "duration": "55m",
+      "provider": "NSE Academy Ltd",
+      "summary": "This introductory module covers basic finance concepts, applications, and how to read and understand financial statements published by organizations. It explains key concepts with examples for financial statement analysis and interpretation.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "ESG-In the Financial Eco System",
+      "duration": "57m 42s",
+      "provider": "NSE Academy Ltd",
+      "summary": "This course provides an introductory view of environmental, social, and governance factors contributing to ESG analysis and highlights the benefits of incorporating ESG factors into investment decision making.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Time Management",
+      "duration": "2h 20m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course provides insights into various time management tools and techniques, including the Pomodoro Technique. The supplied description is truncated.",
+      "_skilllens_possible_domains": [
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Know Your Ministry - Induction Module of DFPD",
+      "duration": "3h 10m",
+      "provider": "Department of Food and Public Distribution",
+      "summary": "This induction training program covers important aspects of the Department of Food and Public Distribution in detail.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Exploring Costing Life Cycles",
+      "duration": "53m 8s",
+      "provider": "National Institute of Communication Finance",
+      "summary": "This course explains life cycle costing, a method used to evaluate the total cost of ownership of a product, service, or asset across its life span, including design, production, operation, maintenance, and disposal. It supports informed decisions that optimize value and minimize overall costs.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Detailed Project Report",
+      "duration": "1h 30m",
+      "provider": "Quality Council of India",
+      "summary": "This course provides an understanding of Detailed Project Reports (DPRs), their importance, and key components for infrastructure projects. Participants gain knowledge and skills to create, review, and manage DPRs effectively, including project scope, objectives, challenges, decision-making, risk mitigation, and resource optimization.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "AI led Digital Transformation in Healthcare",
+      "duration": "1h 15m",
+      "provider": "Wadhwani Institute of Technology and Policy",
+      "summary": "This course is designed for Government of India and State Government officers to develop knowledge and understanding of AI-led digital transformation in healthcare and its potential for governance and public service.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "AI for Digital Transformation: Computer Vision",
+      "duration": "1h 15m",
+      "provider": "Wadhwani Institute of Technology and Policy",
+      "summary": "This course is designed for Government of India and State Government officers to develop knowledge and understanding of Computer Vision and its potential applications in digital transformation.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "National Infrastructure Pipeline Domains - Part I",
+      "duration": "50m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "This course covers India's infrastructure development across five key domains: Energy, Ports, Civil Aviation, Railways, and Roads. It examines the current landscape, achievements, challenges, and proposed solutions for each sector.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Preventive Detention under COFEPOSA",
+      "duration": "25m",
+      "provider": "Central Board of Indirect Taxes and Customs (CBIC)",
+      "summary": "The course covers the COFEPOSA Act, 1974 and its salient features, provisions for detention orders, safeguards guaranteed by Article 22 of the Indian Constitution, and provisions for temporary release.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Demands under CGST Act, 2017",
+      "duration": "55m",
+      "provider": "Central Board of Indirect Taxes and Customs (CBIC)",
+      "summary": "The course covers the need for Show Cause Notices, payment procedures related to them, penalty waivers for compliant taxpayers, timeframes for issuing Show Cause Notices and Adjudication Orders, and prescribed GST forms.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Leading The Karmayogi Way",
+      "duration": "2h 15m",
+      "provider": "Totally Aligned Organization",
+      "summary": "This learning journey under Mission Karmayogi focuses on creating a competent, future-ready civil service rooted in Indian ethos. It emphasizes personal agency, dedication-mindedness or 'seva bhava', understanding power and response capability, and taking responsibility for outcomes.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Report Writing Skills for Project",
+      "duration": "5h 15m",
+      "provider": "National E-Governance Division (NEGD), MeitY, Government of India",
+      "summary": "This course teaches report writing for e-governance projects, including creating comprehensive and well-structured reports that justify project investments and secure approvals. It is designed to make report-writing concepts clear and understandable for government employees.",
+      "_skilllens_possible_domains": [
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Contract Management",
+      "duration": "12h 15m",
+      "provider": "National E-Governance Division (NEGD), MeitY, Government of India",
+      "summary": "This course covers government procurement, including Request for Proposal (RFP) and Request for Quotation (RFQ) processes, and managing bids and procurement in e-governance projects to ensure transparency and fairness.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Beginner Course for GeM Buyer",
+      "duration": "3h 36m",
+      "provider": "Government e Marketplace (GeM)",
+      "summary": "This course covers basic processes of the GeM portal, including introduction and registration on GeM, procurement modes on GeM, bid creation, and related processes.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Corporate Valuation",
+      "duration": "1h 15m",
+      "provider": "NSE Academy Ltd",
+      "summary": "This course introduces corporate valuation concepts including capital structure, cost of capital, corporate valuation, social capital, optimum capital structure, capital budgeting techniques, and income and market approaches to valuation.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Anti Money Laundering",
+      "duration": "43m",
+      "provider": "NSE Academy Ltd",
+      "summary": "This module covers the meaning and impact of money laundering, the Prevention of Money Laundering Act 2002, the role of the Enforcement Directorate, and the importance of due diligence.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Intermediate Level 1 Course for Buyers",
+      "duration": "2h 20m",
+      "provider": "Government e Marketplace (GeM)",
+      "summary": "This course covers intermediate GeM processes including Bid Creation Services, Bunch Bid Creation Services, Consignee as Paying Authority, PAC Buying, Milestone Payment, and related buyer processes.",
+      "_skilllens_possible_domains": [
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Overview of Internet of Things",
+      "duration": "42m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation and Training (NTIPRIT)",
+      "summary": "This course introduces the Internet of Things and explains how different kinds of machines can be connected through the internet to interconnect, collect, exchange, process, and present data.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Ministry Of Mines- Challenges and Opportunities in Mining (Part 10)",
+      "duration": "15m 12s",
+      "provider": "Ministry of Mines",
+      "summary": "This tenth and final module focuses on India's mining sector, including environmental concerns, regulatory hurdles, illegal mining, community displacement, technological gaps, and market fluctuations. It also covers opportunities in infrastructure development, technological innovation, employment generation, export potential, and attracting investment, emphasizing collaboration for sustainable mining.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Optical Fiber Cable Network (O and M)",
+      "duration": "2h 23m",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "Course contents include optical communication principles and ITU-T compliant fibers, GPON basics and power budgeting, proactive GPON maintenance, optical tools and instruments, splicing and fusion splicing, fusion splicing machine operation, OTDR principles and operation, fault localization using OTDR, Power Meter and VFL, and health and safety.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Post Office Workflow-Finance and Accounts",
+      "duration": "1h 38m",
+      "provider": "Department of Posts",
+      "summary": "Post Office Workflow-Finance and Accounts.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Indian Railways - Passes And PTOs (English)",
+      "duration": "1h 6m",
+      "provider": "Ministry of Railways",
+      "summary": "This course covers the different passes and other benefits given in Indian Railways.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "An introductory module on Forensic Analysis",
+      "duration": "49m 50s",
+      "provider": "NSE Academy Ltd",
+      "summary": "Forensic analysis is a systematic and scientific approach used to investigate and analyze evidence in fields such as law enforcement, criminal justice, and cybersecurity. It involves scientific techniques and principles to examine physical, digital, or documentary evidence, uncover facts, establish timelines, and reconstruct events.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Drive Smart: A Guide to Safe and Efficient Vehicle Driving",
+      "duration": "51m 36s",
+      "provider": "Sashastra Seema Bal (SSB)",
+      "summary": "This course is useful for everyone who drives a vehicle. It covers basic skills and knowledge required for driving a vehicle in different road and traffic conditions.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "डाकघर सावधि जमा खाता",
+      "duration": "35m",
+      "provider": "RAKNPA",
+      "summary": "इस पाठ्यक्रम में सावधि जमा खातों की विभिन्न विशेषताओं, उनके प्रकार, ब्याज का भुगतान, समय से पहले बंद होने और परिपक्वता पर अंतिम समापन के बारे में बताया गया है।",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Women Self Defense Techniques Course",
+      "duration": "22m 40s",
+      "provider": "Central Reserve Police Force (CRPF)",
+      "summary": "This course is designed to learn self defense techniques for women.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "E-way Bill System under GST Law - Part 1",
+      "duration": "50m",
+      "provider": "National Academy of Customs, Indirect Taxes and Narcotics (NACIN)",
+      "summary": "This course provides an overview of the E-way Bill system under GST Law.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Evidence-based Policy Making",
+      "duration": "1h 38m",
+      "provider": "ISB Hyderabad",
+      "summary": "This course equips learners with essential skills and concepts in evidence-based decision-making, including understanding evidence versus data, tackling complex problems through the Muddling Through approach, and addressing challenges in measurement, modeling, and adaptive systems.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Network and Telecom Security - Cyber Security Ecosystem",
+      "duration": "30m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation and Training (NTIPRIT)",
+      "summary": "This course discusses cyber security policies, guidelines, and procedures used to protect an organization's or institution's servers and systems from cyber-attacks and vulnerabilities, and explains the need for cyber security.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Managing and Leading Teams",
+      "duration": "1h 40m",
+      "provider": "ISB Hyderabad",
+      "summary": "This course covers core competencies for collaboration and teamwork, self-awareness and awareness of others, and the benefits of working in teams. It includes frameworks and models such as the Paul framework and Johari Window, and identifies five team dysfunctions with measures to manage them.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Public Governance Models",
+      "duration": "58m 36s",
+      "provider": "ISB Hyderabad",
+      "summary": "This course explores connections between governance and national development. The supplied description is truncated.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "CCS LTC Rules 1988",
+      "duration": "47m 16s",
+      "provider": "National Academy Of Defence Financial Management (NADFM)",
+      "summary": "CCS LTC Rules.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Consultation with CVC in Disciplinary Cases",
+      "duration": "45m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "This course covers the legal aspects of obtaining sanction for prosecution in India, including Section 197 of the Code of Criminal Procedure (CrPC), 1973, and the Prevention of Corruption Act, 1988.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Disaster Management Plan Module 1 (Hindi)",
+      "duration": "38m 56s",
+      "provider": "National Thermal Power Corporation (NTPC) Limited",
+      "summary": "इस पाठ्यक्रम में आपदा प्रबंधन योजना (DMP) के उद्देश्य और लाभ, भूकंप, चक्रवात और बाढ़ जैसी प्राकृतिक आपदाओं के दौरान कार्य योजनाएं, आतंकवादी हमलों और बम धमकियों जैसी मानव निर्मित आपदाओं के दौरान कार्य योजना, तथा साइबर अपराध और इसकी सुरक्षा नीति का वर्णन किया गया है।",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Basic Course on Cyber Security Awareness",
+      "duration": "16h 17m",
+      "provider": "Centre for Development of Advanced Computing (C-DAC)",
+      "summary": "The course provides essential knowledge related to cyber security and skills for protecting sensitive information and resources in the digital environment. It covers potential cyber threats, best practices, individual responsibility in information security, identifying and mitigating security risks, safeguarding digital assets, and contributing to a secure work environment.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Modified Assured Career Progression Scheme (MACPS)",
+      "duration": "1h",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "Modified Assured Career Progression Scheme (MACPS).",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Deputation and Absorption",
+      "duration": "35m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course covers deputation and absorption, including appointment of an officer to a post from outside the parent cadre or direct line of promotion, the maximum age for deputation, appointment processes for civil servants, and UPSC consultation for specified Group A and Group B posts under absorption.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Creation of Posts",
+      "duration": "1h",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "Creation of Posts.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Non-Functional Selection and Upgradation for Organized Group",
+      "duration": "38m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course covers Non-Functional Selection Grade (NFSG) and Non-Functional Upgradation (NFU), introduced to address career progression and stagnation issues in Organized Group services caused by limited functional promotion avenues.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Matters relating to Pay Module",
+      "duration": "35m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "This course provides essential knowledge for understanding pay and promotions within the government machinery.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Cadre Review of Central Civil Services",
+      "duration": "55m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course covers cadre review, including its concept and elements and the principles guiding the process. The supplied description is truncated.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Technical Resignation and Lien",
+      "duration": "30m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "This course covers technical resignations within the government machinery, including the concept, prerequisites, benefits, potential career implications, and the role of lien during transition.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Joining Time on Transfer",
+      "duration": "38m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "Joining time is a period granted to an employee transferring to a new position to facilitate the move and settle into the new role.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "DIPAM - Review of Financial Concepts and Frameworks",
+      "duration": "1h 46m",
+      "provider": "Department of Investment and Public Asset Management",
+      "summary": "This module covers fundamentals of financial statements and their importance in assessing company financial performance. It also covers key ratios, valuation methods, and common value distortions in company evaluation.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "DIPAM - Overview of the Disinvestment Landscape",
+      "duration": "1h 7m",
+      "provider": "Department of Investment and Public Asset Management",
+      "summary": "This course explores the evolution of government disinvestment policies in India, methods used for disinvestment, key features of the new Public Sector Enterprise (PSE) policy, significant disinvestment transactions, and India's journey towards economic reform.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "AI Using Google Bard and ChatGPT for Beginners",
+      "duration": "25m 1s",
+      "provider": "Invest India",
+      "summary": "This course provides an overview of AI technology with a focus on Google Bard and ChatGPT's code interpreter, including understanding and applying these tools in professional and personal scenarios.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "4G and 5G Mobile Communication and QoS/QoE",
+      "duration": "1h 31m",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "Course on 4G and 5G technologies.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Implementation and Change Management",
+      "duration": "1h 12m",
+      "provider": "Genpact",
+      "summary": "This course explores change management and risk mitigation in the context of process improvement, with emphasis on effectively managing organizational transformation and mitigating risks.",
+      "_skilllens_possible_domains": [
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Unleashing Excellence: The Path to Outstanding Performance",
+      "duration": "1h 15m",
+      "provider": "Steel Authority of India Limited (SAIL)",
+      "summary": "This course provides tools, insights, and strategies for excelling in personal and professional endeavors and becoming an outstanding performer.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Working of Mobile Tower Antenna",
+      "duration": "29m 53s",
+      "provider": "Bharat Sanchar Nigam Limited (BSNL)",
+      "summary": "This course introduces mobile services and explains measurement of antenna azimuths installed on mobile towers, including the use of a mirror navigation compass for azimuth measurement.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Transfer and Posting",
+      "duration": "30m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "This course covers the development of transfer policy and the draft of the Rotation Policy. The supplied description is truncated.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Formalities of Joining Service",
+      "duration": "1h 5m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "Formalities of Joining Service.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Six Sigma Fundamentals",
+      "duration": "4h 5m",
+      "provider": "Genpact",
+      "summary": "This course introduces Six Sigma, its evolution, and the DMAIC methodology for structured problem-solving. It covers DMAIC phases, statistical tools for analysis and process variation, and continuous improvement techniques such as Kaizen and PDCA, including a case study.",
+      "_skilllens_possible_domains": [
+        "Statistical",
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Type of Telecom licenses and Their Financial Conditions",
+      "duration": "1h 19m",
+      "provider": "National Institute of Communication Finance",
+      "summary": "This course covers licensing provisions for establishing, maintaining, and operating telegraphs under Section 4 of the Indian Telegraph Act, 1885, and the evolution of internet service licensing guidelines in India, including financial and entry conditions.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Classification, Character and Status of Posts",
+      "duration": "30m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course examines categorization within the Union Civil Services, including classification criteria such as pay matrix rank, role nature, ministerial or non-ministerial status, industrial involvement, tenure, and gazetted or non-gazetted distinctions.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Critical Thinking",
+      "duration": "1h 51m",
+      "provider": "ISB Hyderabad",
+      "summary": "This course covers decision making, the role and potential pitfalls of intuition, cognitive and motivational or affective biases at individual and organizational levels, and strategies to overcome biases for more rational, objective, and effective decision making.",
+      "_skilllens_possible_domains": [
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Central Deputation and Foreign Services",
+      "duration": "55m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course covers government employee deputation involving temporary transfers outside departments, central and non-central staffing schemes, international bodies and autonomous organizations, appointment processes involving the Civil Services Board and Appointment Committee, cooling-off periods, and foreign service terms.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Art of Storytelling",
+      "duration": "1h 51m",
+      "provider": "ISB Hyderabad",
+      "summary": "Art of Storytelling.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Parliament at Work - Legislative Process",
+      "duration": "40m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "The course explains the legislative process, beginning with introduction of a bill in either the Lok Sabha or Rajya Sabha. It covers government bills introduced by ministers and private members' bills introduced by private members.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "अनुशासनिक मामलों में सीवीसी के साथ विचार-विमर्श",
+      "duration": "45m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "अनुशासनिक मामलों में सीवीसी के साथ विचार-विमर्श।",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Project Finance",
+      "duration": "2h 48m",
+      "provider": "Quality Council of India",
+      "summary": "The course covers project finance management in the context of large and ambitious projects. The supplied description is truncated.",
+      "_skilllens_possible_domains": [
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "3h 45m",
+      "duration": "ISB Hyderabad",
+      "provider": "This Negotiation course explores four key components: understanding distributive negotiations, exploring value creation, handling dispute resolution encompassing emotions and principles, and navigating multi-party negotiations as observed in international arenas. Learners can anticipate an immersive learning experience, exploring these concepts through quizzes and real-world insights, enhancing their negotiation skills comprehensively.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "1h 30m",
+      "duration": "Wadhwani Institute of Technology and Policy",
+      "provider": "We are thrilled to present an exclusive course on AI for Digital Transformation: Machine Learning and Deep Learning, meticulously designed for the Government of India and State Government officers. This course promises to empower you with the knowledge and understanding of this advanced technology, helping you harness its enormous potential in your respective fields. Embrace the future of efficient governance and public service, where machines and humans work together in perfect harmony, transforming ideas into reality, and reality into a masterpiece. Welcome aboard on this riveting journey into the future. Together, let's steer our nation towards a technologically advanced and progressive tomorrow.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "1h 21m",
+      "duration": "Civis",
+      "provider": "Public consultations are a fundamental aspect of contemporary governance, ensuring that policies and laws align with the needs and expectations of the citizens they affect. Designed exclusively for government officers, the Introduction to Public Consultations course designed by Civis (registered as a Section 8, non-profit company under the Indian Companies Act) offers a comprehensive exploration of this critical area. Delve into the complexities and responsibilities associated with public consultations to fulfil your role as a responsible and informed public servant. This course is applicable for all wrung of officers, who are involved in formal and informal consultation process at various levels of government. Importance for Government Officers Here’s why this course holds significant importance for government officers: - Legal Adherence: Gain the knowledge and skills necessary to navigate the legal intricacies of public consultations, ensuring compliance with the Pre-Legislative Consultation Policy (PLCP). - Global Insights: Investigate international best practices to elevate the quality of your consultations, making them more inclusive and effective. - Enhanced Engagement: Equip yourself with the expertise required to conduct consultations that collect meaningful feedback and integrate it into the policymaking process. - Community Outreach: Discover strategies for reaching even the most remote and underrepresented segments of the population, fostering a citizen-centric approach to governance.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "1h 11m",
+      "duration": "Dr Marri Chenna Reddy Human Resource Development Institute of Telangana",
+      "provider": "ఉద్యోగులకు వారి ఉద్యోగ జీవితాన్ని సులభతరం మరియు సంతృప్తికరం చేసుకోవడానికి, సంస్థాగతమైన మరియు వ్యక్తిగతమైన విలువలకు మధ్య పొందిక ఉండేలా ఉద్యోగ స్థలం వద్ద ఒత్తిడిని తగ్గించుకోవడం ముఖ్యమైన సంగతి. సంస్థాగతమైన మరియు వ్యక్తిగతమైన విలువలకు వ్యక్తులు ఏ విధంగా కూర్పును కలిగి ఉండాలో ఈ మాడ్యూల్ తెలుపుతుంది.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "53m 17s",
+      "duration": "Genpact",
+      "provider": "Welcome to the \"Integration of BPR, Lean, Six Sigma, and Design Thinking\" module! We invite you to embark on a transformative journey where we delve into the seamless integration of BPR, Lean, Six Sigma, and Design Thinking. In an era of complex projects, cross-functional teams, and the need for strategic integration, this program equips you with the insights and skills needed to navigate the intricacies of process improvement effectively.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "1h 43m",
+      "duration": "Genpact",
+      "provider": "Welcome to the \"Design Thinking for Process Innovation\" module, where innovation meets intentionality. This module is designed to demystify Design Thinking, starting with its definition and fundamental principles. We'll explore the human-centered approach, emphasizing the crucial role of empathy in understanding user needs. Get ready to unleash your creative potential as we delve into techniques for ideation and rapid prototyping.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "2h 45m",
+      "duration": "Indian School of Public Policy",
+      "provider": "Public policies play a crucial role in governance, impacting citizens' lives and shaping a nation's direction. However, hastily crafted policies, often based on the perceptions of a select few, can result in unintended consequences and may fail to address the broader public perspective. This course on Policy Writing, spread across 10 short modules, introduces the techniques of sound policy writing, grounded in effective writing and communication principles, to ensure the success and effectiveness of public policies.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "15h 15m",
+      "duration": "National E-Governance Division (NEGD) MeitY Govt of India",
+      "provider": "Get a holistic view of the eGovernance Life Cycle (eGLC), from ideation to implementation, and eventual disposal. Understand the stages involved in developing, deploying, and maintaining e-governance solutions. involved in developing, deploying, and maintaining e-governance solutions.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "15h 15m",
+      "duration": "National E-Governance Division (NEGD) MeitY Govt of India",
+      "provider": "Learn the fundamentals of e-governance project management, covering initiation, planning, execution, monitoring, and closure. Explore best practices, tools, and techniques to successfully deliver e-governance projects on time and within budget.",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "15h 15m",
+      "duration": "National E-Governance Division (NEGD) MeitY Govt of India",
+      "provider": "Explore the strategies behind Government Process Reengineering (GPR) and its role in streamlining public service delivery. Learn",
+      "summary": "",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Course - Internal Tactics Supervisor - C134753",
+      "duration": "37m 29s",
+      "provider": "iGoT",
+      "summary": "Course - Internal Tactics Supervisor - C134753 summary",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Ministry of Mines - Technology and Innovation(Part 6)",
+      "duration": "35m 6s",
+      "provider": "Ministry of Mines",
+      "summary": "This is the sixth module of the training program, focusing on international best practices in sustainable mining using evolving technologies like remote sensing, blockchain, and data analytics. It emphasizes technology's crucial role in safety, efficiency, sustainability, and stakeholder engagement. The course also highlights Indian mining sector initiatives like Drone Surveys, Mining Surveillance Systems, Star Rating of Mines, and 5G adoption.",
+      "_skilllens_possible_domains": [
+        "Statistical",
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Ministry Of Mines-Safety, Sustainability, Envr Responsibility (Part8)",
+      "duration": "54m 3s",
+      "provider": "Ministry of Mines",
+      "summary": "This is the eighth module in our training program, offering a deep dive into safety, sustainability, and environmental responsibility within the mining sector. Participants will explore regulatory guidelines, health and safety standards, environmental policies, social impact assessment, sustainable development goals, and mine closure procedures. The course equips individuals with the knowledge and skills necessary for fostering responsible mining practices and ensuring the long-term sustainability of the mining industry.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Ministry Of Mines -Global Context Dynamics of Market Trends (Part5)",
+      "duration": "2h 59m",
+      "provider": "Ministry of Mines",
+      "summary": "This is the fifth module of the training program, offering learners a deep dive into the international landscape of the mining industry. It encompasses a wide range of topics, from best practices and foreign direct investment to geopolitical considerations, market trends, and collaboration initiatives. The module aims to equip learners with a nuanced understanding of how global dynamics impact the mining sector.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Intermediate Level 2 Course for Buyers",
+      "duration": "2h 13m",
+      "provider": "Government e Market Place(GeM)",
+      "summary": "This course consist of details of Intermediate processes of GeM portal which includes Bunch Bid Creation - Products, Push Button Procurement , Item wise BOQ (Bill of Quantities), Reverse Auction (RA) Deadlock and few more Buyer Modules.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Basic of Access and Core Network",
+      "duration": "45m 23s",
+      "provider": "Bharat Sanchar Nigam Limited(BSNL)",
+      "summary": "The tremendous growth in telecommunications demands during recent decades, much attention has been given to research in th",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Virtual Private Network (VPN) Overview",
+      "duration": "41m 54s",
+      "provider": "Bharat Sanchar Nigam Limited(BSNL)",
+      "summary": "The objective of the this course is to give the participants an understanding of MPLS-VPN",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Adjudication in GST",
+      "duration": "1h 35m",
+      "provider": "Central Board of Indirect Taxes and Customs(CBIC)",
+      "summary": "The course defines adjudication, its process and the importance of the adjudicating authority. It also outlines the significance of order-in-original and helps understand how it is drafted. It further explains the general guidelines to be followed while adjudicating a case under GST. The course also elucidates the concept of Show Cause Notice (SCN), which is an important part of adjudication.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "e-Ustad: Negotiation Skills",
+      "duration": "1h",
+      "provider": "Bureau of Police Research and Development BPRD",
+      "summary": "Negotiation is a process of communication and interaction between two or more parties who have differing interests, goals, or viewpoints. The primary objective of negotiation is to reach a mutually acceptable agreement or resolution that addresses the concerns and needs of all parties involved. Negotiation is a crucial skill for law enforcement professionals, as it plays a significant role in resolving conflicts, managing crises, and ensuring public safety. Law enforcement officers today face a myriad of challenges that extend beyond the realm of enforcing laws. As societies become more complicated, officers need to change the way they handle things. They have to learn how to handle arguments, calm down tense situations, and work with different groups of people. Sometimes, simply using their power and authority isn't enough. This is where negotiation skills come into play. By honing these skills, officers can navigate complex interactions with greater finesse, leading to peaceful resolution that prioritises both public safety and individual rights. Law enforcement officers furthermore often encounter high-stress situations that require rapid decision- making. Effective negotiation skills can de-escalate volatile situations by allowing officers to establish rapport, understand the emotions and motivations of those involved, and find non-violent solutions. This can prevent conflicts from spiralling into violent confrontations, minimising harm to all parties.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "e-Ustad: POCSO Act",
+      "duration": "2h",
+      "provider": "Bureau of Police Research and Development BPRD",
+      "summary": "Child Sexual Abuse (CSA) is a grave violation of human rights and poses a serious threat to the well-being and safety of children. It is the most heinous crime against children and in most instances, it is hidden in nature and also it is the most under-reported crime. CSA is largely ignored by the public and criminal justice system. In India, CSA was not publicly acknowledged as a criminal offence. It was only after the enactment of new legislation called 'The Protection of Children from Sexual Offences Act, 2012 (POCSO Act)' that criminalised a range of acts including child rape, harassment and exploitation of pornography. The POCSO Act is a dedicated legal framework designed to address the alarming issue of CSA. India is home to over 19% of the world's children or 42% (more than one-third) of India's total population. Approx. 50% of these children are in need of care and protection. The POCSO Act is a landmark legislation that specifically focuses on the protection of children from sexual offences. It defines a child as any person below the age of 18 years and recognises the unique vulnerability of children to sexual abuse and exploitation. It aims to create a safe and secure environment for children by preventing and punishing those who commit sexual offences against them.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "e-Ustad: Soft Skills and Communication Skills",
+      "duration": "1h",
+      "provider": "Bureau of Police Research and Development BPRD",
+      "summary": "The police department is one of the most important institutions in any society. The police are primarily responsible for maintaining public safety by enforcing laws, protecting lives and property, and providing emergency assistance when needed. However, in recent years, the police have faced increased criticism for their handling of various situations. One of the primary issues is the lack of soft skills. Soft skills refer to interpersonal skills that enable individuals to communicate effectively, work collaboratively, and build relationships with others. These skills are crucial in the context of policing because police officers regularly interact with people from diverse backgrounds and cultures. According to research conducted at Harvard and Stanford Universities, only 15% of your career success is provided by your hard skills, while the other 85% is provided by so-called soft skills. 'Soft Skills' correlates with some terms of very close meaning: 'Life Skills', 'Emotional Intelligence Quotients', 'Social Skills' and 'Interpersonal Skills'. Further, the soft skills are broken down into categories, or types of skills according to the level of complexity and interaction. A learner needs to go through this e-learning course on Soft Skills and Communication Skills for knowing more.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Cybersecurity",
+      "duration": "2h 56m",
+      "provider": "UpGrad",
+      "summary": "This course will help you understand the basics of cybersecurity.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    },
+    {
+      "course_name": "Advanced Concepts in SQL",
+      "duration": "1h 21m",
+      "provider": "UpGrad",
+      "summary": "In this course, you’ll learn about several techniques that help you reduce query time. These range from optimizing queries to using constructs such as indexes.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Sanction for Prosecution",
+      "duration": "45m",
+      "provider": "Institute of Secretariat Training and Management",
+      "summary": "This course offers a deep dive into the legal intricacies of obtaining sanction for prosecution in India. Participants will explore the nuances of Section 197 of the Code of Criminal Procedure (CrPC), 1973, gaining a comprehensive understanding of its provisions. The Prevention of Corruption Act, 1988, will be thoroughly discussed, providing participants with a robust foundation in the legal framework governing anti-corruption efforts.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Proficiency in technical and scientific writing",
+      "duration": "1h 58m",
+      "provider": "Capacity Building Commission",
+      "summary": "This topic covers the essential skills needed for effective communication in technical and scientific contexts. It encompasses techniques for crafting clear, organized technical documents, mastering scientific writing principles, conducting research, and ensuring proper citation. Students will develop proficiency in grammar and mechanics, and learn how to provide constructive feedback through peer review. Emphasis is placed on maintaining originality and applying these skills in real-world scenarios, preparing individuals for success in professional and academic writing environments.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Plagiarism",
+      "duration": "41m 16s",
+      "provider": "Capacity Building Commission",
+      "summary": "The video on \"What is plagiarism and how to avoid it\" offers a concise explanation of plagiarism and provides practical strategies to prevent it. Viewers gain an understanding of plagiarism as the unauthorized use of someone else's work and the importance of proper citation and attribution. The video also offers guidance on using quotations, paraphrasing, citing sources, and utilizing plagiarism detection tools. By following these tips, individuals can maintain academic integrity and avoid the pitfalls of plagiarism in their work.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "5G Air Interface Part 1",
+      "duration": "50m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation and Training (NTIPRIT)",
+      "summary": "This is part 1 of 5G Air Interface Course. The Learners will be able to understand, Frequency bands, bandwidth, Waveform, Numerologies etc supported in 5G,",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Landslides in India: An Introduction",
+      "duration": "1h 25m",
+      "provider": "Ministry of Mines",
+      "summary": "This e-learning course of the Geological Survey of India Training Institute (GSITI) intends to enhance the understanding of the basics of the landslide phenomena, the landslide hazard scenarios of India, their triggers and consequences.",
+      "_skilllens_possible_domains": [
+        "Statistical",
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Financial Insights\\:Trading,Profit and Loss and Balance Sheet",
+      "duration": "46m 7s",
+      "provider": "National Institute of Communication Finance",
+      "summary": "The course \"Financial Insights: Trading, Profit and Loss, and Balance Sheet\" provides a comprehensive understanding of key financial concepts and statements used in business and accounting. Here's a summary of what you might learn in this course: -Introduction to Financial Statements: -Definition and purpose of the income statement. -Definition and purpose of the Balance Sheet",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Concepts of Digital Signalling - Part 1",
+      "duration": "35m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation and Training (NTIPRIT)",
+      "summary": "Signalling is exchange of Information between various nodes in the process of establishing and releasing a call between a calling party and a called party.",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "E-Learning Modules on Basics of the Underwater World (Part-2)",
+      "duration": "2h 33m",
+      "provider": "Maritime Research Foundation",
+      "summary": "In the second part of the course, the focus shifts towards advanced aspects of Underwater Domain Awareness (UDA) and its practical applications. The curriculum covers the Underwater Data Analytics Framework, providing insights into acoustic propagation in the Indian Ocean Region (IOR) and addressing underwater channel modeling, simulation, and field validation. Additionally, the course explores underwater robotics, including their challenges and opportunities, offering foundational knowledge, classification of applications, and insights into various types of Autonomous Underwater Vehicles (AUVs) and their design and development considerations. The discussion also extends to underwater deployment, emphasizing different deployment types, their applications, and the influence of tropical characteristics on sensor performance and safety. The course further addresses acoustic habitat degradation and management, highlighting underwater acoustics, sources of underwater noise, and marine spatial planning, with real-world examples such as Bubble Feeding by Big Whales. It concludes by examining the role of digital transformation in enhancing coastal communities' livelihoods. This encompasses the digital ocean, the development of an APY analysis tool for seaweed cultivation and shrimp farming, as well as the governance perspective and challenges associated with the APY Tool. These five segments provide advanced insights into UDA, from data analytics and underwater robotics to digital transformation, expanding participants' understanding of the multifaceted world of underwater domain awareness.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Science communication",
+      "duration": "2h 10m",
+      "provider": "Capacity Building Commission",
+      "summary": "This comprehensive course is designed for scientists, researchers, and educators who want to master science communication. Participants will learn to articulate complex scientific ideas compellingly, fostering public discourse and enhancing societal trust in science. Covering writing, visuals, and social media, the course focuses on educating and informing citizens for evidence-based decision-making. Beneficiaries of this course will gain a deep understanding of the science communication landscape, benefiting those eager to broaden the impact of their scientific and research work and engagement with the public.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "E-Learning Modules on Basics of the Underwater World (Part-1)",
+      "duration": "2h 45m",
+      "provider": "Maritime Research Foundation",
+      "summary": "This comprehensive course on Underwater Domain Awareness (UDA) covers a wide spectrum of topics vital to understanding UDA's role in contemporary maritime contexts. It begins with a foundational exploration of UDA, emphasizing its significance and key stakeholders. The course then delves into the strategic alignment of the UDA Framework with India's SAGAR vision, offering insights into India's global positioning and various projects that complement this vision. Next, it addresses the intricacies of UDA in tropical waters, considering political, economic, and historical challenges, while contextualizing UDA within the evolving Indo-Pacific strategy. The course also emphasizes sustainability concerns in the Indian Ocean, encompassing issues such as acoustic habitat degradation, IUU fishing, pollution, and ecosystem degradation, all within the context of India's unique tropical characteristics. Finally, it highlights the need for effective maritime governance and the imperative of a UDA framework. This section discusses regulatory challenges, decision-making dynamics, and the role of the scientific community in managing underwater domains. By encompassing these five modules, the course provides participants with a holistic and in-depth understanding of UDA's significance and its critical role in shaping maritime security and sustainability in the modern world.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Multi Tasking Karmayogi - Dakshata",
+      "duration": "5h 31m",
+      "provider": "Department of Posts",
+      "summary": "Multi Tasking Karmayogi - Dakshata (For MTS working in DOP)",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Fundamentals of Public Policy",
+      "duration": "2h 54m",
+      "provider": "Indian School of Public Policy",
+      "summary": "This course offers an introduction to public policy. It will introduce what is public policy and discuss its relevance as a discipline. The course then introduces the key circumstances under which a problem becomes a public policy issue. It offers that market failures are the main areas that require public policy action to be initiated. However, it contends that there are different kinds of market failures. Therefore, each kind of market failure is discussed in detail. In the end, a problem set is shared to solve that provides practical questions on public policy issues.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Behavioural/Managerial"
+      ]
+    },
+    {
+      "course_name": "Developing Awareness on ESG Issues",
+      "duration": "57m 41s",
+      "provider": "Steel Authority of India Limited (SAIL)",
+      "summary": "This course enables leaders/managers/officers/supervisors to develop awareness on ESG issues. It explains how adopting ESG measures are impacting business performance and it is in the interest of all stakeholders to implement ESG measures. After completing the course, one will be able to: - Learn about the pillars of ESG and factors comprising it. - Understand ESG Investing and its pros & cons. - Learn about the key metrics of ESG that businesses should track.",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Budgeting in Defence",
+      "duration": "1h 9m",
+      "provider": "Defence Accounts Department (DAD)",
+      "summary": "Budgeting in Defence",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "5G Quality of Service",
+      "duration": "2h 23m",
+      "provider": "National Telecommunications Institute for Policy Research, Innovation and Training (NTIPRIT)",
+      "summary": "5G Quality of Service",
+      "_skilllens_possible_domains": [
+        "Technical"
+      ]
+    },
+    {
+      "course_name": "Basics of National Income Accounting",
+      "duration": "1h 7m",
+      "provider": "LBSNAA",
+      "summary": "By the end of this exercise, we will be able to understand about the economics models, introduction to national income accounting and how to measure GDP.",
+      "_skilllens_possible_domains": [
+        "Statistical"
+      ]
+    },
+    {
+      "course_name": "कौशल विकास और उद्यमशीलता मंत्रालय प्रारंभिक प्रशिक्षण",
+      "duration": "5h",
+      "provider": "Ministry of Skill Development and Entrepreneurship",
+      "summary": "यह ‘कौशल विकास और उद्यमशीलता मंत्रालय प्रारंभिक प्रशिक्षण’ मॉड्यूल एक डिजिटल इंटरैक्टिव ई-लर्निंग मॉड्यूल है, जो कौशल विकास और उद्यमिता मंत्रालय (एम.एस.डी.ई.), इसके प्रभागों और संगठनों का अवलोकन प्रदान करता है। यह पाठ्यक्रम शिक्षार्थियों को कौशल विकास और उद्यमिता मंत्रालय (एम.एस.डी.ई.) और उसके संगठनों के अवलोकन, मिशन, विजन, प्रमुख भूमिकाओं और जिम्मेदारियों, संरचना और प्रमुख योजनाओं और परियोजनाओं को समझने और परिचित करने में मदद करेगा। इसमें निम्नलिखित विषय शामिल होंगे : - • मंत्रालय का विज़न-मिशन और संरचना। • मंत्रालय की प्रमुख भूमिकाएँ और जिम्मेदारियाँ। • मंत्रालय की प्रमुख योजनाएं और नीतियां। • मंत्रालय के डिजिटल पोर्टल और डैशबोर्ड। • मंत्रालय के प्रमुख प्रभागों और उनकी जिम्मेदारियों का मानचित्रण। • मंत्रालय के भीतर विभिन्न प्रभागों और संगठनों के प्रमुख अधिदेश, बुनियादी कामकाज, मुख्य प्रक्रिया, भूमिकाओं और जिम्मेदारियों के बारे में विस्तार से जानकारी। यह समग्र प्रेरण मॉड्यूल शिक्षार्थियों को एक मूल्यांकन के माध्यम से उनकी समझ का आकलन करने में भी सक्षम करेगा।",
+      "_skilllens_possible_domains": []
+    },
+    {
+      "course_name": "Government e-Marketplace",
+      "duration": "2h",
+      "provider": "Department of Expenditure",
+      "summary": "Describe the process of registration in GeM and Identify the role and responsibilities of primary and secondary users. We can also Understand the registration process and Define the various types of procurement modes.",
+      "_skilllens_possible_domains": [
+        "Technical",
+        "Digital Governance"
+      ]
+    }
+  ]
+}

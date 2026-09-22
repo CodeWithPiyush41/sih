@@ -8,17 +8,17 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 
 const variants: Record<Variant, string> = {
   primary:
-    'bg-signal text-white hover:bg-signal-hover active:bg-signal-active disabled:bg-ink-muted/40 disabled:text-white/70 disabled:cursor-not-allowed',
+    'bg-primary text-white hover:bg-primary-dark active:bg-primary-dark shadow-md font-semibold disabled:opacity-50 disabled:cursor-not-allowed',
   secondary:
-    'bg-transparent border border-border text-ink hover:border-border-strong hover:bg-bg',
+    'bg-white border border-slate-300 text-slate-800 hover:bg-slate-50 active:bg-slate-100 font-medium shadow-xs',
   destructive:
-    'bg-transparent border border-danger text-danger hover:bg-danger-tint',
+    'bg-rose-600 text-white hover:bg-rose-700 active:bg-rose-800 font-semibold shadow-sm',
 };
 
 export function Button({ variant = 'primary', className = '', ...props }: ButtonProps) {
   return (
     <button
-      className={`rounded-btn px-4 py-2.5 text-body font-medium transition-colors duration-150 ${variants[variant]} ${className}`}
+      className={`w-full rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-150 cursor-pointer ${variants[variant]} ${className}`}
       {...props}
     />
   );

@@ -1,0 +1,127 @@
+<USER_REQUEST>
+Integrate the cleaned iGoT Karmayogi course dataset into the existing SkillLens AI project.
+
+Dataset:
+igot_courses_cleaned.json
+It contains 150 cleaned course records with:
+- course_name
+- duration
+- provider
+- summary
+- source = iGoT Karmayogi
+
+IMPORTANT:
+Do NOT invent course data, competencies, tags, learning outcomes, URLs, IDs, or providers.
+
+TASKS:
+
+1. Inspect the existing Supabase `igot_courses` table and current iGoT code.
+
+2. Update the schema only if required so it can store:
+   - course_name
+   - duration
+   - provider
+   - summary
+   - source
+   - created_at / updated_at if already used
+
+3. Import all 150 cleaned courses into Supabase.
+
+4. Prevent duplicate records using a normalized uniqueness strategy based on:
+   course_name + duration + provider
+
+5. Keep the original source data unchanged.
+
+6. Do NOT treat `_skilllens_possible_domains` as official iGoT metadata.
+   It is only a SkillLens-derived matching hint.
+
+7. Update the existing iGoT repository/provider so it reads real database records instead of mock courses.
+
+8. Update recommendation matching.
+
+When an officer has a competency gap such as:
+
+   Statistical Analysis
+
+match against:
+   course_name + summary
+
+and return relevant courses from the real imported dataset.
+
+The recommendation result must contain:
+
+- Course name
+- Duration
+- Provider
+- Summary
+- Source
+
+9. Do not create fake course URLs.
+If the dataset has no URL, don't display a fake URL.
+
+10. Keep the current recommendation UI and styling.
+Do not redesign the dashboard.
+
+11. Remove any remaining hardcoded/mock iGoT courses from the recommendation flow.
+
+12. Verify multiple gaps work.
+
+Example:
+
+Statistical gap
+→ search real iGoT catalog
+→ return matching statistical/data courses.
+
+Technical gap
+→ search real catalog
+→ return matching technical courses.
+
+Communication gap
+→ search real catalog
+→ return matching communication/soft-skill courses.
+
+13. If no relevant course exists, show:
+
+"No matching iGoT course found in the current catalog."
+
+Do NOT generate a fake recommendation.
+
+14. Add source labeling:
+
+"iGoT Karmayogi Catalog"
+
+Do not claim that this is an official authenticated iGoT API integration.
+
+15. Keep the architecture provider-based so an official iGoT API can be connected later.
+
+16. Test the complete flow:
+
+Officer profile
+→ assessment
+→ competency score
+→ competency gap
+→ iGoT recommendation
+→ real course from Supabase
+→ recommendation displayed in UI
+
+17. Verify that:
+- 150 courses are imported
+- duplicates are prevented
+- mock courses are removed
+- recommendation uses database data
+- no fake URLs exist
+- no fake course metadata exists
+- TypeScript passes
+- build passes
+
+Do not change unrelated features.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-21T19:16:02+05:30.
+
+The user's current state is as follows:
+Active Document: d:\workwithpp\my project\SkillLens AI\.env (LANGUAGE_UNSPECIFIED)
+Cursor is on line: 1
+Other open documents:
+- d:\workwithpp\my project\SkillLens AI\.env (LANGUAGE_UNSPECIFIED)
+</ADDITIONAL_METADATA>

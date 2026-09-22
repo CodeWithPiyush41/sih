@@ -4,59 +4,59 @@ export default {
   theme: {
     extend: {
       colors: {
-        ink: {
-          DEFAULT: 'var(--ink)',
-          secondary: 'var(--ink-secondary)',
-          muted: 'var(--ink-muted)',
+        background: '#F8FAFC',
+        surface: '#FFFFFF',
+        primary: {
+          DEFAULT: '#044B39',
+          light: '#1EA97B',
+          dark: '#053438',
         },
-        bg: 'var(--bg)',
-        surface: 'var(--surface)',
+        secondary: {
+          DEFAULT: '#72C613',
+          light: '#CBF39D',
+          dark: '#264B04',
+        },
+        info: {
+          DEFAULT: '#2180E6',
+          light: '#BDF0EC',
+        },
+        accent: {
+          DEFAULT: '#C8EFC1',
+        },
+        text: {
+          DEFAULT: '#0F172A',
+          secondary: '#64748B',
+        },
         border: {
-          DEFAULT: 'var(--border)',
-          strong: 'var(--border-strong)',
+          DEFAULT: '#E2E8F0',
         },
-        signal: {
-          DEFAULT: 'var(--signal)',
-          hover: 'var(--signal-hover)',
-          active: 'var(--signal-active)',
-          tint: 'var(--signal-tint)',
-        },
-        strong: {
-          DEFAULT: 'var(--strong)',
-          tint: 'var(--strong-tint)',
-        },
-        gap: {
-          DEFAULT: 'var(--gap)',
-          tint: 'var(--gap-tint)',
-        },
-        'neutral-score': 'var(--neutral-score)',
-        danger: {
-          DEFAULT: 'var(--danger)',
-          tint: 'var(--danger-tint)',
-        },
+        success: '#16A34A',
+        warning: '#F59E0B',
+        danger: '#DC2626',
       },
       fontFamily: {
-        sans: ['"IBM Plex Sans"', 'system-ui', 'sans-serif'],
-        mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
+        sans: ['"Inter"', 'system-ui', 'sans-serif'],
       },
       fontSize: {
-        display: ['40px', { lineHeight: '48px', fontWeight: '600', letterSpacing: '-0.01em' }],
-        h1: ['26px', { lineHeight: '32px', fontWeight: '600', letterSpacing: '-0.005em' }],
-        h2: ['18px', { lineHeight: '26px', fontWeight: '600' }],
-        h3: ['15px', { lineHeight: '22px', fontWeight: '600' }],
-        body: ['14px', { lineHeight: '21px', fontWeight: '400' }],
-        'body-sm': ['13px', { lineHeight: '18px', fontWeight: '400' }],
-        caption: ['12px', { lineHeight: '16px', fontWeight: '500', letterSpacing: '0.01em' }],
-        'data-lg': ['30px', { lineHeight: '1.1', fontWeight: '500' }],
-        'data-inline': ['13px', { lineHeight: '1', fontWeight: '500' }],
+        display: ['40px', { lineHeight: '1.2', fontWeight: '700', letterSpacing: '-0.02em' }],
+        h1: ['32px', { lineHeight: '1.2', fontWeight: '700', letterSpacing: '-0.01em' }],
+        h2: ['26px', { lineHeight: '1.3', fontWeight: '600' }],
+        h3: ['18px', { lineHeight: '1.4', fontWeight: '600' }],
+        h4: ['16px', { lineHeight: '1.5', fontWeight: '600' }],
+        body: ['16px', { lineHeight: '1.5', fontWeight: '400' }],
+        'body-sm': ['14px', { lineHeight: '1.5', fontWeight: '400' }],
+        caption: ['13px', { lineHeight: '1.5', fontWeight: '400' }],
       },
       borderRadius: {
-        btn: '6px',
-        panel: '8px',
-        badge: '4px',
+        xl: '12px',
+        lg: '8px',
+        md: '6px',
+        sm: '4px',
       },
-      spacing: {
-        '15': '60px',
+      boxShadow: {
+        'subtle': '0 1px 2px 0 rgba(0, 0, 0, 0.05)',
+        'card': '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+        'floating': '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
       },
     },
   },

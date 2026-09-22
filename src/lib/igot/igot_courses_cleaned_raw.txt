@@ -1,0 +1,24 @@
+import json
+
+transcript_path = r"C:\Users\hp\.gemini\antigravity-ide\brain\62b0c3cd-691d-4192-a994-47441833eb52\.system_generated\logs\transcript_full.jsonl"
+with open(transcript_path, 'r', encoding='utf-8') as f:
+    for i, line in enumerate(f):
+        if 'Internal Tactics Supervisor' in line or 'Flood-Disaster Response' in line:
+            # check where it appears in line
+            print(f"Line {i} matches!")
+            data = json.loads(line)
+            # print all string keys/values
+            def search_obj(obj, path=""):
+                if isinstance(obj, str):
+                    if 'Internal Tactics Supervisor' in obj:
+                        print(f"Found in {path}, len {len(obj)}")
+                        with open(r"d:\workwithpp\my project\SkillLens AI\src\lib\igot\igot_courses_cleaned_raw.txt", "w", encoding="utf-8") as out:
+                            out.write(obj)
+                elif isinstance(obj, dict):
+                    for k, v in obj.items():
+                        search_obj(v, path + "." + k)
+                elif isinstance(obj, list):
+                    for idx, item in enumerate(obj):
+                        search_obj(item, path + f"[{idx}]")
+
+            search_obj(data)
