@@ -23,6 +23,7 @@ export function LoginPage() {
   const {
     register,
     handleSubmit,
+    setValue,
     formState: { errors },
   } = useForm<FormData>({
     resolver: zodResolver(schema),
@@ -56,6 +57,11 @@ export function LoginPage() {
     }
   };
 
+  const fillDemoAccount = (email: string) => {
+    setValue('email', email);
+    setValue('password', '123456');
+  };
+
   return (
     <div className="min-h-screen bg-slate-900 flex flex-col items-center justify-center relative overflow-hidden p-4">
       <div className="absolute top-8 left-8 flex items-center gap-2">
@@ -71,9 +77,37 @@ export function LoginPage() {
       <div className="w-full max-w-md px-4 relative z-10 space-y-6">
         <div className="bg-white/95 backdrop-blur-md p-8 rounded-2xl shadow-2xl border border-slate-200">
           <h1 className="text-2xl font-bold text-slate-900 mb-1">Sign in to SkillLens AI</h1>
-          <p className="text-xs text-slate-500 mb-6">
+          <p className="text-xs text-slate-500 mb-4">
             AI Competency Intelligence & Personalized Learning Pathway
           </p>
+
+          {/* Quick Demo Credentials selector */}
+          <div className="mb-5 p-3 bg-slate-100/80 border border-slate-200 rounded-xl">
+            <span className="text-[10px] font-bold uppercase tracking-wider text-slate-500 block mb-2">Quick Demo Accounts</span>
+            <div className="flex flex-wrap gap-1.5">
+              <button
+                type="button"
+                onClick={() => fillDemoAccount('ppanchariya93@officer.org')}
+                className="px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 hover:border-primary text-xs font-semibold shadow-xs"
+              >
+                Officer
+              </button>
+              <button
+                type="button"
+                onClick={() => fillDemoAccount('trainer@tranner.org')}
+                className="px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 hover:border-primary text-xs font-semibold shadow-xs"
+              >
+                Coordinator
+              </button>
+              <button
+                type="button"
+                onClick={() => fillDemoAccount('skill@gmail.com')}
+                className="px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 hover:border-primary text-xs font-semibold shadow-xs"
+              >
+                Admin
+              </button>
+            </div>
+          </div>
 
           {authError && (
             <div className="p-3 mb-4 rounded-xl bg-rose-50 border border-rose-200 text-xs text-rose-600 font-medium leading-relaxed">
